@@ -18,6 +18,7 @@ E depois clone o projeto:
 Executar os comandos:
 
 >npm install
+
 >npm start
 
 E abrir o navegador na porta 3000:
