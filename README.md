@@ -12,7 +12,7 @@ Para clonar o projeto, vá ao diretório de sua preferência:
 
 E depois clone o projeto:
 
->git clone "https://github.com/VicTenorio/RavencrownView.git"
+>git clone "https://github.com/ViTenorio/RavencrownView.git"
 
 Executar os comandos:
 
